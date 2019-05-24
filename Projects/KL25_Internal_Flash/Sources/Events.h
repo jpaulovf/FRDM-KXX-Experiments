@@ -33,6 +33,11 @@
 #include "PE_Error.h"
 #include "PE_Const.h"
 #include "IO_Map.h"
+#include "IFlash.h"
+#include "IntFlashLdd1.h"
+#include "Term1.h"
+#include "Inhr1.h"
+#include "ASerialLdd1.h"
 
 #ifdef __cplusplus
 extern "C" {
