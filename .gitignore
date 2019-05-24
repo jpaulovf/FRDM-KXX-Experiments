@@ -1,0 +1,13 @@
+# Do not track the following folders:
+**/Debug
+**/Documentation
+**/Generated_Code
+**/Project_Settings
+**/.settings
+**/.vscode
+
+# Do not track the following files
+**/.cwGeneratedFileSetLog
+**/.KL25_Internal_Flash.g_c
+**/.KL25_Internal_Flash.g_x
+**/ProjectInfo.xml
